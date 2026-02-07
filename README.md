@@ -1,2 +1,2 @@
-# TAREAS
+# TAREAS teoria de la información
 Repositorio tareas de la asignatura de teoría de la información 2026
